@@ -5,13 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ProjetoApiMarketPlaceApplication {
-
-
-
-
-
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoApiMarketPlaceApplication.class, args);
 	}
-
 }
